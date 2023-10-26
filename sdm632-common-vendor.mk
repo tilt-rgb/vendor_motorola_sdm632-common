@@ -673,7 +673,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     QtiTelephonyService \
     ims \
-    qcrilmsgtunnel \
     QtiTelephonyServicelibrary \
     com.qualcomm.qti.imscmservice-V2.0-java \
     com.qualcomm.qti.imscmservice-V2.1-java \
